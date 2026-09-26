@@ -59,7 +59,6 @@ HCC-scRNAseq-GSE149614/
 ├── HCC-scRNAseq-GSE149614.Rproj
 │
 ├── R/
-│   ├── 01_full_pipeline.R
 │   ├── loading data.R
 │   ├── QC.R
 │   └── normalization to annotation.R
