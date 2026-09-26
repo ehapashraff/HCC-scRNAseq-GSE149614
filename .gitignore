@@ -1,0 +1,20 @@
+# R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Raw GEO data
+data/raw/*.gz
+data/raw/*.txt
+
+# Large Seurat objects
+results/*.rds
+
+# Temporary files
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
